@@ -5,7 +5,5 @@ Dosen Pengampu: Abdurahman, M.Han.
 # Biodata :
 ## Nama                  : M. Syaiful Karomah
 ## NIM                   : 09011282328111
-## Tempat, Tanggal Lahir : Palembang, 10 Februari 2005
-## Asal Sekolah          : SMKN 3 Palembang
-### Jurusan              : Akuntansi
-
+## Jurusan               : Sistem Komputer
+## Kelas                 : SK1C
